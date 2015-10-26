@@ -1,0 +1,24 @@
+{
+  "name": "gynx2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gynx-test-user2/gynx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gynx-test-user2/gynx/issues"
+  },
+  "homepage": "https://github.com/gynx-test-user2/gynx#readme",
+  "dependencies": {
+    "react": "^0.14.0",
+    "react-bootstrap": "^0.27.2",
+    "react-dom": "^0.14.0"
+  }
+}
